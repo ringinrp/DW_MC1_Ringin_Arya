@@ -89,7 +89,7 @@ func main() {
 	fmt.Println("Power :", Naruto.Power)
 	fmt.Println("Exp :", Naruto.Exp)
 	fmt.Println("===HEROES POWER UP===")
-	var NarutoPowerUp = PowerUp(Sasuke, 3)
+	var NarutoPowerUp = PowerUp(Sasuke, 4)
 	fmt.Println("Name :", NarutoPowerUp.Name)
 	fmt.Println("Health :", NarutoPowerUp.Health)
 	fmt.Println("Power :", NarutoPowerUp.Power)
